@@ -6,6 +6,7 @@ Requirements:
 1. Python3
 2. selenium==2.53.6.
 3. PHANTOMJS 2.1.1 executable in path.
+
 **TO-DO**
 
 - [ ] Documentation
